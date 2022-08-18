@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\DynamicRuleEngine\DynamicRuleApp\bin\Debug\DynamicRuleApp.exe.config
+C:\Users\Lenovo\source\repos\DynamicRuleEngine\DynamicRuleApp\bin\Debug\DynamicRuleApp.exe
+C:\Users\Lenovo\source\repos\DynamicRuleEngine\DynamicRuleApp\bin\Debug\DynamicRuleApp.pdb
+C:\Users\Lenovo\source\repos\DynamicRuleEngine\DynamicRuleApp\obj\Debug\DynamicRuleApp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\DynamicRuleEngine\DynamicRuleApp\obj\Debug\DynamicRuleApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DynamicRuleEngine\DynamicRuleApp\obj\Debug\DynamicRuleApp.exe
+C:\Users\Lenovo\source\repos\DynamicRuleEngine\DynamicRuleApp\obj\Debug\DynamicRuleApp.pdb
